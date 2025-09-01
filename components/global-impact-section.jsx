@@ -21,7 +21,7 @@ export function GlobalImpactSection() {
                 <MapPin className="h-8 w-8 text-secondary" />
               </div>
               <h3 className="text-2xl font-bold text-foreground mb-4">📍 Target Regions</h3>
-              <p className="text-lg text-muted">LATAM, Africa, Southeast Asia</p>
+              <p className="text-lg text-muted">EMEA, UK, AUS/NZ and North America</p>
             </CardContent>
           </Card>
 
