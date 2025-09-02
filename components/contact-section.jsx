@@ -57,8 +57,8 @@ export function ContactSection() {
                     </div>
                     <div>
                       <h3 className="font-bold text-foreground">Email</h3>
-                      <a href="mailto:invest@sabza.earth" className="text-secondary hover:underline">
-                        invest@sabza.earth
+                      <a href="mailto:Invest@sabza.me" className="text-secondary hover:underline">
+                        Invest@sabza.me
                       </a>
                     </div>
                   </div>
@@ -69,8 +69,8 @@ export function ContactSection() {
                     </div>
                     <div>
                       <h3 className="font-bold text-foreground">Website</h3>
-                      <a href="https://www.sabza.earth" className="text-secondary hover:underline">
-                        www.sabza.earth
+                      <a href="https://www.sabza.me" className="text-secondary hover:underline">
+                        www.SABZA.me 
                       </a>
                     </div>
                   </div>

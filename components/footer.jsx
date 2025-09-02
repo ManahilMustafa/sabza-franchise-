@@ -71,11 +71,11 @@ export function Footer() {
             <h3 className="font-bold text-lg mb-4">Contact</h3>
             <div className="space-y-2 text-muted-foreground">
               <p>Dubai, UAE</p>
-              <a href="mailto:invest@sabza.earth" className="hover:text-primary transition-colors">
-                invest@sabza.earth
+              <a href="mailto:Invest@sabza.me" className="hover:text-primary transition-colors">
+                Invest@sabza.me
               </a>
-              <a href="https://www.sabza.earth" className="hover:text-primary transition-colors block">
-                www.sabza.earth
+              <a href="https://sabza.me/" className="hover:text-primary transition-colors block">
+                www.sabza.me
               </a>
             </div>
           </div>
